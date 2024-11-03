@@ -1,1 +1,1 @@
-# CPS-510-Project
+Music And Movie Store Database Management System
